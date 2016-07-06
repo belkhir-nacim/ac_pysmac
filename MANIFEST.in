@@ -1,0 +1,4 @@
+recursive-include ac_pysmac/smac *.jar
+recursive-include ac_pysmac/smac *.bat
+recursive-include ac_pysmac/smac smac
+include Readme.md
